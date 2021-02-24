@@ -11,3 +11,6 @@ Denne linjen ble lagt til fra github, skal forsøke å pulle.
 
 
 La til den nye filen secondfil.txt for å vise et eksempel
+
+
+We got rid of the master, main is now in charge
