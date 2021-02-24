@@ -6,3 +6,5 @@
 Dette vil vel bli linje en
 Linje to
 Hva skjer boys
+
+Denne linjen ble lagt til fra github, skal forsøke å pulle.
