@@ -14,3 +14,5 @@ La til den nye filen secondfil.txt for å vise et eksempel
 
 
 We got rid of the master, main is now in charge
+
+Hello jur , i very am strim
